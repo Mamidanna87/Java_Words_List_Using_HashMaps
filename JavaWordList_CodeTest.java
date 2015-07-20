@@ -1,4 +1,4 @@
-package deloittecodetest;
+package samplecodetest;
 
 import java.text.*;
 import java.util.*;
@@ -8,7 +8,7 @@ import java.util.logging.Logger;
 /**
  * @author Lakshmi P Mamidanna
  */
-public class DeloitteCodeTest {
+public class SampleCodeTest {
 
     public static void main(String[] args) {
         
